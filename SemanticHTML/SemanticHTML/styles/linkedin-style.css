@@ -2,6 +2,18 @@
     border: none;
 }
 
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
 .bold {
     font-weight: bold;
+}
+
+.block {
+    display: block;
 }
