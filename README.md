@@ -1,5 +1,5 @@
 # HTMLHomework
-In this repository I keep all the homework from the HTML training @ Telerik Academy. The training has 4 courses:
+In this repository I keep all the homework from the HTML course @ Telerik Academy. The course has 4 lessons:
 
 1. HTML Fundamentals [Homework](https://github.com/TelerikAcademy/HTML/blob/master/3.%20HTML%20Fundamentals/README.md)
 2. HTML Tables [Homework](https://github.com/TelerikAcademy/HTML/blob/master/4.%20HTML%20Tables/README.md)
